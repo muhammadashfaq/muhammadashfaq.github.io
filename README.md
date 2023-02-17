@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashfaq</h1>
-<h3 align="center">A passionate cross platform mobile developer from Pakistan</h3>
+<h3 align="center">A passionate cross platform mobile developer specialized in React Native</h3>
 
 - 🌱 I’m currently learning **Nodejs || Flutter || Nestjs**
 
