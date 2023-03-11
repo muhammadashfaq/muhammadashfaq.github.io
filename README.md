@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ashfaq</h1>
 <h3 align="center">A passionate cross platform mobile developer specialized in React Native</h3>
 
-- 🌱 I’m currently learning **Nodejs || Flutter || Nestjs**
+- 🌱 I’m currently learning **Nodejs || Flutter**
 
 - 👯 I’m looking to collaborate on [React native](https://reactnative.dev/)
 
