@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **react native, mobile apps, android, ios**
 
-- 📫 How to reach me **ashfaq441997@gmail.com**
-
 - ⚡ Fun fact **I love to travel.**
 
 <h3 align="left">Connect with me:</h3>
